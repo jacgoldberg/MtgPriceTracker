@@ -1,0 +1,23 @@
+Created by Jackson Goldberg
+Email: jacksonagoldberg@gmail.com
+
+All work is designed and written by me.
+
+Dependences:
+    "requests"
+        Install : pip install requests
+
+Importent Notes:
+    Only designed to be executed on mac
+
+How to use:
+    Name of the Card and the Set that the card is from are required in order to add a card
+
+    Once you have add all of the cards you want to track you can hit "Update Spreadsheet" this will attach a link as well as price track to the cards.
+        - The reason the add card and update spread sheet method are separated is due to slow performance with the update method
+    
+    In order to add the current value of your card on ownership, that must be manually submitted in the spread sheet
+        - open up the spread sheet
+        - change the initial cost
+        - save and quit
+        - update spread sheet
